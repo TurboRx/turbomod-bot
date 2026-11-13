@@ -17,15 +17,15 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@devvit/public-api": "^0.14.2"
+    "@devvit/public-api": "^0.15.3"
   },
   "devDependencies": {
-    "@devvit/cli": "^0.14.2",
+    "@devvit/cli": "^0.15.3",
     "@eslint/js": "^10.0.1",
-    "@types/node": "^26.4.0",
-    "eslint": "^10.9.1",
-    "globals": "^17.12.0",
+    "@types/node": "^26.6.6",
+    "eslint": "^10.14.0",
+    "globals": "^17.14.0",
     "typescript": "~7.0.2",
-    "typescript-eslint": "^8.69.0"
+    "typescript-eslint": "^8.72.2"
   }
 }
